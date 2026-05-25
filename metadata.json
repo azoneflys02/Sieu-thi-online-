@@ -1,0 +1,6 @@
+{
+  "name": "Siêu Thị Trực Tuyến & Thanh Toán Hóa Đơn",
+  "description": "Hệ thống mua sắm nhu yếu phẩm trực tuyến kết hợp thanh toán các hóa đơn sinh hoạt thông minh, hỗ trợ bởi Trợ lý AI tư vấn chi tiêu và gợi ý món ăn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
